@@ -1,6 +1,5 @@
-import React from "react";
 import "./App.css";
-import CarCard from "./componnets/CarCard";
+import CarCard from "./components/CarCard";
 import audiImage from "./images/audi.jpg";
 import bmwImage from "./images/bmw.jpg";
 import mercedesImage from "./images/mercedes.jpg";

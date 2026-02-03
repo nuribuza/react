@@ -1,5 +1,5 @@
-import React from 'react';
-import "./Card.css";
+import react from 'react';
+import "./Car.css";
 
 function CarCard({ brand, model, year, description, image }) {
     return (
